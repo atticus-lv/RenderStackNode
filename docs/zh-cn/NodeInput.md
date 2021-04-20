@@ -1,8 +1,8 @@
 ### Camera
 
-This node let you to set the camera as the scene camera
+使用此节点可以将摄影机设置为场景摄影机
 
-It will do nothing if the camera is empty 
+如果相机是空的，它什么也做不了
 
 
 ### World
